@@ -1,4 +1,13 @@
 "# PT-W09-coding-assignment" 
+Instructions:
+In Visual Studio Code, write the code that accomplishes the objectives listed below and ensures that the code compiles and runs as directed.
+Comment your code, to prove that you understand what you have written -- this is required!
+Create a .gitignore file containing the text: node_modules
+Create a new repository on GitHub for this week's assignments and push your code to the repository.
+Create a Video showcasing your assignment.
+Submit the two URL links for the GitHub repo and Video in the Text box.
+
+
 Coding Steps:
 For the final project you will be creating an automated version of the classic card game WAR! There are many versions of the game WAR. In this version there are only 2 players.
 You do not need to do anything special when there is a tie in a round.

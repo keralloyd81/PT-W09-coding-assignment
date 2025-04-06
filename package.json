@@ -1,7 +1,15 @@
 {
   "name": "coding-assignment",
   "version": "1.0.0",
-  "description": "",
+  "description": "\"# PT-W09-coding-assignment\" \r Instructions:\r In Visual Studio Code, write the code that accomplishes the objectives listed below and ensures that the code compiles and runs as directed.\r Comment your code, to prove that you understand what you have written -- this is required!\r Create a .gitignore file containing the text: node_modules\r Create a new repository on GitHub for this week's assignments and push your code to the repository.\r Create a Video showcasing your assignment.\r Submit the two URL links for the GitHub repo and Video in the Text box.",
+  "homepage": "https://github.com/keralloyd81/PT-W09-coding-assignment#readme",
+  "bugs": {
+    "url": "https://github.com/keralloyd81/PT-W09-coding-assignment/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/keralloyd81/PT-W09-coding-assignment.git"
+  },
   "license": "ISC",
   "author": "",
   "type": "commonjs",
